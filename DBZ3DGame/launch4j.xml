@@ -1,0 +1,20 @@
+﻿<launch4jConfig>
+    <dontWrapJar>false</dontWrapJar>
+    <headerType>gui</headerType>
+    <jar>C:\Users\Admin\Documents\GitHub\bfdefiniton\DBZ3DGame\DBZ3DGame.jar</jar>
+    <outfile>C:\Users\Admin\Documents\GitHub\bfdefiniton\DBZ3DGame\DBZ3DGame.exe</outfile>
+    <errTitle>DBZ Game</errTitle>
+    <cmdLine></cmdLine>
+    <chdir>.</chdir>
+    <priority>normal</priority>
+    <downloadUrl>https://www.java.com/</downloadUrl>
+
+    <manifest>
+        <mainClass>com.dbz.game.Main</mainClass>
+    </manifest>
+
+    <jre>
+        <minVersion>1.8.0</minVersion>
+        <jdkPreference>preferJre</jdkPreference>
+    </jre>
+</launch4jConfig>

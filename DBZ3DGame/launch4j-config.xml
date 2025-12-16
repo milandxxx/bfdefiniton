@@ -1,0 +1,15 @@
+﻿<launch4jConfig>
+    <dontWrapJar>false</dontWrapJar>
+    <headerType>gui</headerType>
+    <jar>C:\Users\Admin\Documents\GitHub\bfdefiniton\DBZ3DGame\DBZ3DGame.jar</jar>
+    <outfile>C:\Users\Admin\Documents\GitHub\bfdefiniton\DBZ3DGame\DBZ3DGame.exe</outfile>
+    <errTitle>DBZ3DGame</errTitle>
+    <cmdLine></cmdLine>
+    <chdir>.</chdir>
+    <priority>normal</priority>
+    <downloadUrl>https://adoptium.net</downloadUrl>
+    <supportUrl></supportUrl>
+    <stayAlive>false</stayAlive>
+    <manifest></manifest>
+    <icon></icon>
+</launch4jConfig>
